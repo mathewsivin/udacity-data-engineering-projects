@@ -27,11 +27,6 @@ Make sure you run the files in this order -
 
 #### Other files 
 1. z_create_the_cluster.ipynb - Used to create the cluster, and delete it after use 
-2. z_test_out_the_table_Creation.ipynb - can be used to dummy test the logic and creat the tables as a test. These are then copied to the etl.py after extensive iteration and testing 
+2. z_test_out_the_table_Creation.ipynb - can be used to dummy test the logic and create the tables as a test. These are then copied to the etl.py after extensive iteration and testing 
 
 Make sure to rerun create_tables.py everytime you change the data 
-
-
-### Questions to reviewer: 
-
-If you can give me more advice on the sortkey and distkey usage, it was a bit of guesswork - would be helpful in the different ways I could have implemented it. 
