@@ -1,6 +1,6 @@
 ## Data Modelling with Data Lake
 This Project involves creation of a database for a fictional startup, Sparkify. An AWS EMR cluster is used for this project. 
-The data is loaded from AWS S3 into an EMR cluster created on AWS processed to create the tables listed below, once created these are loaded back into S3 as parquet tables. 
+The data is loaded from AWS S3 into an EMR cluste. The cluster created on AWS are processed to create the tables listed below. Once created these are loaded back into S3 as parquet tables. 
 
 These are the following tables created: 
 Fact Table
