@@ -1,4 +1,4 @@
-###Data Modelling with Postgres
+### Data Modelling with Postgres
 This Project involves creation of a database for a fictional startup, Sparkify. Postgres database is used for this project. 
 
 These are the following tables created: 
