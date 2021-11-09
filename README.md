@@ -12,4 +12,4 @@ In this project, you are tasked with building an ELT pipeline that extracts thei
 In this project, a relational database and ETL pipeline are designed to optimize queries for understanding what songs users are listening to. Fact and Dimension tables are created as part of the process
 
 # Pipelines with Airflow
-The tables creation and loading are automated using Airflow, schedule was created for data pipelines with Airflow including the debug process. 
+The table creation and loading are automated using Airflow, schedule was created for data pipelines with Airflow including the debug process. 
