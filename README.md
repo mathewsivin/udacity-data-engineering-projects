@@ -1,5 +1,5 @@
 # Udacity Data Engineering Projects
-In these projects, models were created for user activity data. The activity data is from a music streaming app call Sparkify. 
+In these projects, models were created for user activity data. The activity data is from a music streaming app called Sparkify. 
 The database and ETL pipelines were designed to understand what songs users are listening to. 
 
 # Data Lake with Spark
