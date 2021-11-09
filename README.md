@@ -9,7 +9,7 @@ In this project, an ETL pipeline was built for a data lake. The data resides in 
 In this project, a relational database and ETL pipeline are designed to optimize queries for understanding what songs users are listening to. Fact and Dimension tables are created as part of the process
 
 # Cloud Data Warehouse 
-In this project, you are tasked with building an ELT pipeline that extracts their data from S3, stages them in Redshift, and transforms data into a set of dimensional tables for their analytics team to continue finding insights in what songs their users are listening to.
+In this project, you are tasked with building an ELT pipeline that extracts their data from S3, stages them in Redshift, and transforms data into a set of dimensional tables. For their analytics team to continue finding insights in what songs their users are listening to.
 
 # Pipelines with Airflow
 The table creation and loading are automated using Airflow, a schedule was created for data pipelines with Airflow including the debug process. 
